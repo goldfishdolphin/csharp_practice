@@ -1,0 +1,14 @@
+/Users/Naureen/CSharpPractice/testConsole/testConsole/bin/Debug/net8.0/testConsole
+/Users/Naureen/CSharpPractice/testConsole/testConsole/bin/Debug/net8.0/testConsole.deps.json
+/Users/Naureen/CSharpPractice/testConsole/testConsole/bin/Debug/net8.0/testConsole.runtimeconfig.json
+/Users/Naureen/CSharpPractice/testConsole/testConsole/bin/Debug/net8.0/testConsole.dll
+/Users/Naureen/CSharpPractice/testConsole/testConsole/bin/Debug/net8.0/testConsole.pdb
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.AssemblyInfoInputs.cache
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.AssemblyInfo.cs
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.csproj.CoreCompileInputs.cache
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.dll
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/refint/testConsole.dll
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.pdb
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/testConsole.genruntimeconfig.cache
+/Users/Naureen/CSharpPractice/testConsole/testConsole/obj/Debug/net8.0/ref/testConsole.dll
