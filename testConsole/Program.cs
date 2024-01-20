@@ -21,5 +21,13 @@ Console.WriteLine("Hello, World!");
       string name = Console.ReadLine();
       Console.WriteLine("Welcome "+ name +"!");
 
+// Array
+string [] cities= new string[3]{"manchester", "london", "edinburgh"};
+Console.WriteLine("Second city: "+cities[1]);
 
 
+
+// Array in int
+int [] numbers= new int [10]{1,2,3,4,5,6,7,8,9,10};
+Console.WriteLine("Fifth Number in Array : "+ numbers[4]);
+Console.Read();
