@@ -77,7 +77,7 @@ Console.Write("Please enter a number:   ");
 double num1 = Convert.ToDouble(Console.ReadLine());
 
 Console.Write("Please enter a letter:   ");
-char letter1 = Convert.ToChar(Console.ReadLine());
+char letter1 = Console.ReadLine()[0];
 
 if (num1 >= 5)
     Console.WriteLine("number is greater than 5");
@@ -113,3 +113,35 @@ switch (daynumber)
 
 Console.WriteLine("Inserted day is " + day);
 
+//LOOPS
+//For Loop
+int[] numberList = new int[20];
+int i = 0;
+for (int k = 1; k < 10; k++)
+{
+    Console.WriteLine("For Loop Iteration " + k);
+
+}
+Console.WriteLine("________");
+//While loop
+Console.WriteLine("While Loop Iteration");
+while (i < numberList.Length)
+{
+    numberList[i] = i;
+    Console.Write(numberList[i]);
+    Console.Write("\n");
+    i++;
+}
+
+//Do-While Loop
+
+Console.WriteLine("________");
+//While loop
+Console.WriteLine("Do-While Loop Iteration");
+do
+{
+    i--;
+    Console.Write(numberList[i]);
+    Console.Write("\n");
+}
+while (i > 0);
