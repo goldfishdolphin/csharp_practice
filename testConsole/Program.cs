@@ -70,3 +70,29 @@ Console.WriteLine("\t (0>1): \t" + (n > max));
 
 Console.WriteLine("Less");
 Console.WriteLine("\t (0<1): \t" + (n < max));
+
+
+// IF Condition
+Console.Write("Please enter a number:   ");
+double num1 = Convert.ToDouble(Console.ReadLine());
+
+Console.Write("Please enter a letter:   ");
+char letter1 = Convert.ToChar(Console.ReadLine());
+
+if (num1 >= 5)
+    Console.WriteLine("number is greater than 5");
+else
+    Console.WriteLine("number is equal to or less than 5");
+
+if (letter1 == 'A')
+    Console.WriteLine("inserted letter is A");
+else
+    Console.WriteLine("inserted letter is not A");
+
+
+
+
+
+
+
+
