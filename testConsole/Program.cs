@@ -92,7 +92,24 @@ else
 
 
 
+// Switch Statement
+
+string day;
+Console.Write("Enter a number to select a day of the week ");
+int daynumber = Convert.ToInt16(Console.ReadLine());
+switch (daynumber)
+{
+    case 1: day = "Mon"; break;
+    case 2: day = "Tue"; break;
+    case 3: day = "Wed"; break;
+    case 4: day = "Thu"; break;
+    case 5: day = "Fri"; break;
+    case 6: day = "Sat"; break;
+    case 7: day = "Sun"; break;
+    default: day = "not a day of the week"; break;
+
+}
 
 
-
+Console.WriteLine("Inserted day is " + day);
 
